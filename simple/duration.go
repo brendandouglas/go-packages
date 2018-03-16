@@ -8,6 +8,6 @@ func placeHolder() *foo.Msg {
 	return nil
 }
 
-func temp() *Struct {
-	return nil
+func Ret_value() (int int){
+	return 5
 }
